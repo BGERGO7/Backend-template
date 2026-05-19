@@ -27,7 +27,7 @@ using Microsoft.EntityFrameworkCore;
 using KonyvtarWebApi_BG.Models;
 using Microsoft.Extensions.DependencyModel;
 
-namespace KonyvtarWebApi_BG.Models; // saját namespace, átírni!!
+namespace KonyvtarWebApi_BG.Models; // saját namespace, amit automatikusan letrehoz!
 
 public class {név}Context : DbContext
 {
